@@ -68,7 +68,7 @@
 
 https://sbmihoyo.com（需在PC端打开，移动端不会进行加载）
 
-![demo](./demo.png)
+![demo](demo.png)
 
 ### 引用方式
 
