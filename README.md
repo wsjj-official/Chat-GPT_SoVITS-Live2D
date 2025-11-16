@@ -66,7 +66,7 @@
 
 ### 演示地址
 
-https://sbmihoyo.com（需在PC端打开，移动端不会进行加载）
+https://sbmihoyo.com
 
 ![demo](demo.png)
 
